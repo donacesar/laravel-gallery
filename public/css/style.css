@@ -11,3 +11,18 @@ div.gallery-item {
     display: block;
     margin: 0px auto;
 }
+
+.btn-warning {
+    background-color: rgb(231 216 196);
+    border-color: rgb(231 216 196);
+}
+
+.btn-info {
+    background-color: #8edaf1;
+    border-color: #8edaf1;
+}
+
+.btn-danger {
+    background-color: #ef7783;
+    border-color: #ef7783;
+}
